@@ -1,5 +1,5 @@
 # Data-Visualization-in-Python
-Projects made during academic course in "Data Visualization", written in Python.
+Projects made during academic course in _Data Visualization_, written in Python.
 
 <h3>:wrench: Used packages:</h3>
 
